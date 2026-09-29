@@ -15,3 +15,7 @@ Este repositorio forma parte de una práctica de control de versiones.
 - Git
 - Git Bash
 - GitHub
+
+## Estructura del proyecto
+- README.md: documentación principal del proyecto.
+- Historial de Git: registro de los cambios realizados.
