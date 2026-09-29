@@ -19,3 +19,7 @@ Este repositorio forma parte de una práctica de control de versiones.
 ## Estructura del proyecto
 - README.md: documentación principal del proyecto.
 - Historial de Git: registro de los cambios realizados.
+
+## Autor
+Cesar Eduardo Saucedo Villalobos
+Estudiante y desarrollador en formación.
