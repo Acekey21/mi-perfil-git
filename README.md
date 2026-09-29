@@ -23,3 +23,6 @@ Este repositorio forma parte de una práctica de control de versiones.
 ## Autor
 Cesar Eduardo Saucedo Villalobos
 Estudiante y desarrollador en formación.
+
+## ¿Qué es Git?
+Git es un sistema de control de versiones que permite registrar y administrar los cambios realizados en un proyecto.
