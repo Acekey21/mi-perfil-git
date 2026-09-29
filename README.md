@@ -10,3 +10,8 @@ Este repositorio forma parte de una práctica de control de versiones.
 - Practicar el uso de Git.
 - Crear un historial de cambios organizado.
 - Utilizar commits descriptivos.
+
+## Tecnologías utilizadas
+- Git
+- Git Bash
+- GitHub
