@@ -26,3 +26,6 @@ Estudiante y desarrollador en formación.
 
 ## ¿Qué es Git?
 Git es un sistema de control de versiones que permite registrar y administrar los cambios realizados en un proyecto.
+
+## Aprendizaje
+Esta práctica permite comprender el flujo de trabajo básico con Git y el uso de commits para registrar cambios.
